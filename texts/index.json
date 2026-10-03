@@ -1,0 +1,614 @@
+[
+{
+"id": "gaz",
+"lang": "gaz",
+"group": "Afaan Oromoo (Oromo, West Central)",
+"name": "Kitaaba Qulqulluu, Biblica® Hiikkaa Ammayyaa Banamaa Haaraa, Loqoda Dhiʼaa",
+"short": "New Oromo Contemporary V",
+"dir": "ltr",
+"license": "Copyright © 2022 Biblica, Inc."
+},
+{
+"id": "twi",
+"lang": "twi",
+"group": "Akuapem Twi (Twi)",
+"name": "Biblica® Wonhia ɛho kwamma nhoma Akuapem Twi Nkwa Asɛm",
+"short": "Akuapem Twi Bible",
+"dir": "ltr",
+"license": "Copyright © 1996, 2020 Biblica, Inc."
+},
+{
+"id": "msy2020",
+"lang": "msy",
+"group": "Aruamu",
+"name": "Godɨn Eghaghanim: Akar Gavgavir Dɨkɨrɨzir Ghurim ko Igiam",
+"short": "Aruamu Bible",
+"dir": "ltr",
+"license": "Copyright © 2020 Pioneer Bible Translators"
+},
+{
+"id": "cekak",
+"lang": "cek",
+"group": "Asang Khongca (Chin, Eastern Khumi)",
+"name": "Asang Khongca Bible (2019)",
+"short": "Asang Khongca Bible",
+"dir": "ltr",
+"license": "public domain"
+},
+{
+"id": "azb",
+"lang": "azb",
+"group": "Azeri (Azerbaijani, South)",
+"name": "Azərbaycan dilində Müqəddəs Kitab",
+"short": "Azerbaijani Bible",
+"dir": "ltr",
+"license": "Copyright © 2008 Müqəddəs Kitab Sirkəti"
+},
+{
+"id": "bba",
+"lang": "bba",
+"group": "Bariba (Baatonum)",
+"name": "Bibeli Gusunɔn Gari",
+"short": "Bariba Bible",
+"dir": "ltr",
+"license": "Copyright © 2013 SIM"
+},
+{
+"id": "beo",
+"lang": "beo",
+"group": "Bedamuni (Beami)",
+"name": "GODE EA SIA: IDA:IWANE GALA",
+"short": "Bedamuni Bible",
+"dir": "ltr",
+"license": "Copyright © 2000 Tom Hoey"
+},
+{
+"id": "bel",
+"lang": "be",
+"group": "Belarusian",
+"name": "Біблія (пераклад А.Бокуна)",
+"short": "Belarusan Bible, A. Boke",
+"dir": "ltr",
+"license": "Copyright © 2016-2023 John the Forerunner Church of Christians of Evangelical Faith of Minsk City"
+},
+{
+"id": "bqcsim",
+"lang": "bqc",
+"group": "Boko",
+"name": "Bibeli Luayãtaalá",
+"short": "Boko (Benin) Bible",
+"dir": "ltr",
+"license": "Copyright © 2010 SIM International"
+},
+{
+"id": "hne",
+"lang": "hne",
+"group": "Chhattisgarhi",
+"name": "Biblica® सुतंतर समकालीन छत्तीसगढ़ी अनुवाद",
+"short": "Chhattisgarhi Bible",
+"dir": "ltr",
+"license": "Copyright © 2012, 2016, 2021, 2024 Biblica, Inc."
+},
+{
+"id": "nya",
+"lang": "ny",
+"group": "Chichewa",
+"name": "Biblica® Tsekulani Mawu a Mulungu mu Chichewa Chalero",
+"short": "Chichewa Bible",
+"dir": "ltr",
+"license": "Copyright © 2016, 2002 Biblica, Inc."
+},
+{
+"id": "sna",
+"lang": "sn",
+"group": "chiShona",
+"name": "Biblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi 2017",
+"short": "Shona Bible",
+"dir": "ltr",
+"license": "Copyright © 2005, 2018 Biblica, Inc."
+},
+{
+"id": "tczchongthu",
+"lang": "tcz",
+"group": "Chongthu (Chin, Thado)",
+"name": "PATHEN LEKHABU THENG",
+"short": "Chongthu Bible",
+"dir": "ltr",
+"license": "Copyright © 2020 Chongthu Bible Translation Team"
+},
+{
+"id": "cac",
+"lang": "cac",
+"group": "Chuj de San Mateo Ixtatán (Chuj)",
+"name": "A Ch'an Biblia D'a Chuj San Mateo",
+"short": "Chuj San Mateo Bible",
+"dir": "ltr",
+"license": "Copyright © 2007 Sociedad Bíblica de Guatemala"
+},
+{
+"id": "chk",
+"lang": "chk",
+"group": "Chuukese",
+"name": "Paipel",
+"short": "Chuukese Bible",
+"dir": "ltr",
+"license": "Copyright © 1984, 1989, 1991, 2001 Liebenzel Mission"
+},
+{
+"id": "mps",
+"lang": "mps",
+"group": "Dadibi",
+"name": "Godigo dwagi yai po buku",
+"short": "Dadibi Bible",
+"dir": "ltr",
+"license": "Copyright © 1987, 2001 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "dwrENT",
+"lang": "dwr",
+"group": "Dawro",
+"name": "ጌሻ ማጻፋ",
+"short": "Dawro Bible (Ethoipic sc",
+"dir": "ltr",
+"license": "Copyright © 2011 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "luo",
+"lang": "luo",
+"group": "Dholuo",
+"name": "Biblica® Ochiw Thuolo Motingʼo Loko Manyien™",
+"short": "Dholuo Bible",
+"dir": "ltr",
+"license": "Copyright © 2020 Biblica, Inc."
+},
+{
+"id": "tbzsim",
+"lang": "tbz",
+"group": "Ditammari",
+"name": "Bibiri Kuyie Nnɑ́ɑǹtì Pɑ́tíri",
+"short": "Ditammari Bible",
+"dir": "ltr",
+"license": "Copyright © 2001 SIM International"
+},
+{
+"id": "epo",
+"lang": "eo",
+"group": "Esperanto",
+"name": "Londona Biblio",
+"short": "Esperanto Bible",
+"dir": "ltr",
+"license": "public domain"
+},
+{
+"id": "ewe",
+"lang": "ewe",
+"group": "eʋegbe",
+"name": "Biblica® Se aɖeke mebla Biblia zazã o Agbenya La™",
+"short": "Éwé Bible",
+"dir": "ltr",
+"license": "Copyright © 1988, 2006, 2020 Biblica, Inc."
+},
+{
+"id": "gmve",
+"lang": "gmv",
+"group": "Gamotso (Gamo)",
+"name": "ጌሻ ማጻፋ",
+"short": "Gamo Bible",
+"dir": "ltr",
+"license": "Copyright © 2024 The Word for the World International"
+},
+{
+"id": "gofe",
+"lang": "gof",
+"group": "Goofa",
+"name": "ጌሻ ማፃፋ",
+"short": "Gofa: ጌሻ ማፃፋ Bible",
+"dir": "ltr",
+"license": "Copyright © 2024 The Word for the World International"
+},
+{
+"id": "gubBl",
+"lang": "gub",
+"group": "Guajajára",
+"name": "Tupàn ze'eg",
+"short": "Guajajára Bible",
+"dir": "ltr",
+"license": "Copyright © 2007 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "gax",
+"lang": "gax",
+"group": "gujii",
+"name": "Kitaaba Woyyuu",
+"short": "Guji Oromo Bible",
+"dir": "ltr",
+"license": "Copyright © 2025 The Word for the World International"
+},
+{
+"id": "hmo",
+"lang": "hmo",
+"group": "Hiri Motu (Motu, Hiri)",
+"name": "Buka Helaga",
+"short": "Hiri Motu Bible",
+"dir": "ltr",
+"license": "Copyright © 1964, 1982, 1994 The Bible Society of Papua New Guinea"
+},
+{
+"id": "qub",
+"lang": "qub",
+"group": "Huallaga Huánuco Quechua (Quechua, Huallaga Huánuco)",
+"name": "Tayta Diosninchi Isquirbichishan",
+"short": "Huallaga Huánuco Quechua",
+"dir": "ltr",
+"license": "Copyright © 2011 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "hch",
+"lang": "hch",
+"group": "Huichol",
+"name": "KAKAƗYARI NIUKIEYA XAPAYARI WIXARIKAKƗ",
+"short": "Huichol Bible 2020",
+"dir": "ltr",
+"license": "Copyright © 2020 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "hui",
+"lang": "hui",
+"group": "Huli",
+"name": "Habo nalolene bi gahenge lo winigo ogo",
+"short": "Huli Bible",
+"dir": "ltr",
+"license": "Copyright © 1983, 1991, 2002 Bible Society of Papua New Guinea"
+},
+{
+"id": "hil",
+"lang": "hil",
+"group": "Ilonggo",
+"name": "Biblica® Libre Ang Pulong Sang Dios",
+"short": "Hiligaynon: Biblica® Lib",
+"dir": "ltr",
+"license": "Copyright © 1996, 2006, 2011, 2022 Biblica, Inc."
+},
+{
+"id": "nde",
+"lang": "nde",
+"group": "isiNdebele (Ndebele)",
+"name": "Biblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo",
+"short": "Ndebele Bible",
+"dir": "ltr",
+"license": "Copyright © 2003, 2006, 2022 Biblica, Inc."
+},
+{
+"id": "kbq",
+"lang": "kbq",
+"group": "Kamano-Kafe (Kamano)",
+"name": "Anumzamofo Ruotage Avontafere",
+"short": "Kamano-Kafe Bible",
+"dir": "ltr",
+"license": "Copyright © 2022 Tyndale Bible Translators"
+},
+{
+"id": "kpg",
+"lang": "kpg",
+"group": "Kapingamarangi",
+"name": "Beebaa Dabu",
+"short": "Kapingamarangi Bible",
+"dir": "ltr",
+"license": "Copyright © 1996, 2014 The Kapingamarangi Bible translation committee"
+},
+{
+"id": "kik",
+"lang": "kik",
+"group": "Kikuyu (Gikuyu)",
+"name": "Biblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre",
+"short": "Kikuyu Bible",
+"dir": "ltr",
+"license": "Copyright © 2013 Biblica, Inc."
+},
+{
+"id": "kij",
+"lang": "kij",
+"group": "Kiriwina (Kilivila)",
+"name": "Buki Pilabumaboma Kabutubogwa Deli Kabutuvau",
+"short": "Kilivila: Buki Pilabumab",
+"dir": "ltr",
+"license": "Copyright © 1984 Bible Society of Papua New Guinea"
+},
+{
+"id": "mkw",
+"lang": "mkw",
+"group": "Kituba",
+"name": "Mambu ya Nzambi",
+"short": "Kituba Bible",
+"dir": "ltr",
+"license": "Copyright © 2025 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "kos",
+"lang": "kos",
+"group": "Kosrae (Kosraean)",
+"name": "BIBLE MUTAL",
+"short": "Kosraean Bible",
+"dir": "ltr",
+"license": "public domain"
+},
+{
+"id": "rop",
+"lang": "rop",
+"group": "Kriol",
+"name": "Holi Baibul",
+"short": "Kriol Bible",
+"dir": "ltr",
+"license": "Copyright © 1990, 2005, 2006, 2015, 2018 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "ksd",
+"lang": "ksd",
+"group": "Kuanua or Tinata Tuna or Tolai (Kauana)",
+"name": "A BUK TABU A MAULANA KUNUBU ma A KALAMANA KUNUBU",
+"short": "Kauana Bible",
+"dir": "ltr",
+"license": "Copyright © 1882-1983 Bible Society of Papua New Guinea"
+},
+{
+"id": "latVUC",
+"lang": "la",
+"group": "Latine (Latin)",
+"name": "Bibbia Vulgata Clementina na 1598",
+"short": "Clementine Vulgate 1598",
+"dir": "ltr",
+"license": "public domain"
+},
+{
+"id": "lin",
+"lang": "ln",
+"group": "Lingála",
+"name": "Biblica® Salela na bonsomi Mokanda na Bomoi",
+"short": "Lingala Bible",
+"dir": "ltr",
+"license": "Copyright © 2020 Biblica, Inc."
+},
+{
+"id": "lug",
+"lang": "lg",
+"group": "Luganda",
+"name": "Biblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™",
+"short": "Luganda Bible",
+"dir": "ltr",
+"license": "Copyright © 1984, 1986, 1993, 2014 Biblica, Inc."
+},
+{
+"id": "mdyeth",
+"lang": "mdy",
+"group": "Maale (Male)",
+"name": "ጌኤዦ ማፃኣፖ",
+"short": "Maale Bible (Ethiopic sc",
+"dir": "ltr",
+"license": "Copyright © 2008 The Word for the World International and The Bible Society of Ethiopia"
+},
+{
+"id": "shr",
+"lang": "shr",
+"group": "Mashi (Shi)",
+"name": "BIBLIYA NTAGATIFU OMU MASHI",
+"short": "Mashi Bible",
+"dir": "ltr",
+"license": "Copyright © 2024 BUKAVU Mashi and other Kivu Languages Bible"
+},
+{
+"id": "hlt",
+"lang": "hlt",
+"group": "Matupi Chin (Chin, Matu)",
+"name": "Baibal Olcim",
+"short": "Matupi Chin Standard Bib",
+"dir": "ltr",
+"license": "public domain"
+},
+{
+"id": "gun",
+"lang": "gun",
+"group": "Mbyá Guaraní (Guaraní, Mbyá)",
+"name": "Nhanderuete ayvu iky'a e'ỹ va'e",
+"short": "Mbyá Guaraní NT",
+"dir": "ltr",
+"license": "Copyright © 2004 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "meu",
+"lang": "meu",
+"group": "Motu",
+"name": "Buk Baibel long tokples Motu",
+"short": "Motu Bible",
+"dir": "ltr",
+"license": "Copyright © 1959-1973 Bible Society of Papua New Guinea"
+},
+{
+"id": "nchBl",
+"lang": "nch",
+"group": "Nahuatl, Huasteca Central",
+"name": "Icamanal toteco; Santa Biblia",
+"short": "Huasteca Central Nahuatl",
+"dir": "ltr",
+"license": "Copyright © 2005 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "nhwBl",
+"lang": "nhw",
+"group": "Nahuatl, Huasteca Occidental",
+"name": "Icamanal toteco; Santa Bíblia",
+"short": "Huasteca Occidental Nahu",
+"dir": "ltr",
+"license": "Copyright © 2005 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "nheBl",
+"lang": "nhe",
+"group": "Nahuatl, Huasteca Oriental",
+"name": "Itlajtol toteco: Santa Biblia",
+"short": "Huasteca Oriental Nahuat",
+"dir": "ltr",
+"license": "Copyright © 2005 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "pon2006",
+"lang": "pon",
+"group": "Pohnpeian",
+"name": "Pohnpeian Bible",
+"short": "Pohnpeian Bible 2006",
+"dir": "ltr",
+"license": "Copyright © 2006 Bible Society of the South Pacific"
+},
+{
+"id": "rmc",
+"lang": "rmc",
+"group": "Romanes (Romani, Carpathian)",
+"name": "Le Devleskero Lav Andre Romaňi Čhib, Slovensko 2022",
+"short": "Eastern Slovak Romani Bi",
+"dir": "ltr",
+"license": "Copyright © 2019 The Word for the World International and The Word for the World Slovakia"
+},
+{
+"id": "rug",
+"lang": "rug",
+"group": "Roviana",
+"name": "Buka Hope",
+"short": "Roviana Bible",
+"dir": "ltr",
+"license": "Copyright © 2016 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "cuk",
+"lang": "cuk",
+"group": "San Blas Cuna (San Blas Kuna)",
+"name": "Bab-Dummad-Garda-Islidikid",
+"short": "San Blas Kuna Bible",
+"dir": "ltr",
+"license": "Copyright © 2014 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "suzBl",
+"lang": "suz",
+"group": "Sunwar",
+"name": "परमप्रभु यावे आ लोव़",
+"short": "Sunwar Bible",
+"dir": "ltr",
+"license": "Copyright © 2011 Wycliffe Bible Translators, Inc."
+},
+{
+"id": "sus",
+"lang": "sus",
+"group": "Susu",
+"name": "Soso Kitaabuie: Tawureta, Yabura, Inyila",
+"short": "Susu Bible",
+"dir": "ltr",
+"license": "Copyright © 2015 Mission Evangélique Reformée Néerlandaise et les Traducteurs Pionniers de la Bible"
+},
+{
+"id": "tdx",
+"lang": "tdx",
+"group": "Tandroy (Malagasy, Tandroy-Mahafaly)",
+"name": "Saontsin’ Añahare",
+"short": "Tandroy Bible",
+"dir": "ltr",
+"license": "Copyright © 2023 Steve Lellelid"
+},
+{
+"id": "cth",
+"lang": "cth",
+"group": "Thai Phum (Chin, Thaiphum)",
+"name": "Thai Phum Holy Bible",
+"short": "Thai Phum Bible",
+"dir": "ltr",
+"license": "Copyright © 2020 Batupuei Christian Fellowship"
+},
+{
+"id": "tpi",
+"lang": "tpi",
+"group": "Tok Pisin (Melanesian Pidgin)",
+"name": "Buk Baibel long Tok Pisin",
+"short": "Tok Pisin Bible with Deu",
+"dir": "ltr",
+"license": "Copyright © 1969–2008 The Bible Society of Papua New Guinea"
+},
+{
+"id": "tod",
+"lang": "tod",
+"group": "Toma",
+"name": "GALA Daawoo Zɛʋɛi",
+"short": "Toma Bible Portions",
+"dir": "ltr",
+"license": "Copyright © 2023 Pioneer Bible Translators and The Bible Society in Guinea-Conakry"
+},
+{
+"id": "uigara",
+"lang": "uig",
+"group": "Uyghur tili (Uyghur)",
+"name": "مۇقېددېس كالام (يەنگى يېزىق)",
+"short": "Uyghur Bible (arabic scr",
+"dir": "rtl",
+"license": "Copyright © 2010 Mukeddes Kalam - Uyghur Bible Translation Committee"
+},
+{
+"id": "wolmbs",
+"lang": "wo",
+"group": "Wolof",
+"name": "Kàddug Yàlla",
+"short": "Wolof Bible (MBS)",
+"dir": "ltr",
+"license": "Copyright © 2025 La Mission Baptiste du Sénégal"
+},
+{
+"id": "yal",
+"lang": "yal",
+"group": "Yalunka",
+"name": "Kisin Kiraan Kitabuna",
+"short": "Yalunka Bible",
+"dir": "ltr",
+"license": "Copyright © 2012 Pioneer Bible Translators"
+},
+{
+"id": "yap",
+"lang": "yap",
+"group": "Yapese",
+"name": "Bible Ni Thothup",
+"short": "Yapese Bible",
+"dir": "ltr",
+"license": "Copyright © 2007 Bible Society of Micronesia"
+},
+{
+"id": "rifa",
+"lang": "rif",
+"group": "ثْرِيفيثْ (Tarifit)",
+"name": "أَذْلِيسْ إِقدّْسنْ",
+"short": "Tarifit Bible (Arabic Sc",
+"dir": "rtl",
+"license": "Copyright © 2020 www.tarifit.info"
+},
+{
+"id": "ckb",
+"lang": "ckb",
+"group": "كوردی سۆرانی (Central Kurdish)",
+"name": "Biblica® وەشانی بێبەرامبەری کوردیی سۆرانیی ستاندەر",
+"short": "Kurdish Sorani Bible",
+"dir": "rtl",
+"license": "Copyright © 2020 anonymous"
+},
+{
+"id": "asmfb",
+"lang": "asm",
+"group": "অসমীয়া (Assamese)",
+"name": "ইণ্ডিয়ান ৰিভাইচ ভাৰচন (IRV) আচামিচ - 2019",
+"short": "Assamese Indian Revised ",
+"dir": "ltr",
+"license": "Copyright © 2017, 2018 Bridge Connectivity Solutions"
+},
+{
+"id": "bodn",
+"lang": "bod",
+"group": "བོད་ཡིག (Tibetan)",
+"name": "དམ་པའི་གསུང་རབ་བོད་འགྱུར་གསར་མ།",
+"short": "New Tibetan Bible",
+"dir": "ltr",
+"license": "Copyright © 2016-2023 New Tibetan Bible Translation Committee"
+}
+]
