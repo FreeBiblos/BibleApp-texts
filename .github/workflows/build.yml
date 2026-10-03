@@ -1,0 +1,56 @@
+name: Build Bible texts
+
+# Picks one freely shareable complete Bible per language from eBible.org (languages the app
+# doesn't already carry), converts it with the app's checked converter, and commits
+# texts/<id>.json.gz plus texts/index.json (the list the app shows). Re-run to refresh.
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/build.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: Bluesboy13/BibleApp
+          ref: claude/sweet-cerf-nr0tgl
+          path: app
+          sparse-checkout: |
+            tools/texts
+            data/kjv.json
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Choose translations
+        run: |
+          pip install --quiet numpy
+          curl -fsSL https://ebible.org/Scriptures/translations.csv -o translations.csv
+          python app/tools/texts/build_ebible_all.py pick translations.csv > wanted.tsv
+          wc -l wanted.tsv
+      - name: Download
+        run: |
+          mkdir -p zips
+          cut -f1 wanted.tsv | while read id; do
+            curl -fsSL "https://ebible.org/Scriptures/${id}_usfx.zip" -o "zips/${id}_usfx.zip" || echo "missing $id"
+          done
+          ls zips | wc -l
+      - name: Convert
+        run: python app/tools/texts/build_ebible_all.py build translations.csv zips texts
+      - name: Commit
+        run: |
+          rm -rf texts/_tmp
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .nojekyll texts
+          git commit -m "Build Bible texts" || exit 0
+          git push
